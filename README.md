@@ -7,16 +7,16 @@
   - Configuring DHCP Server
 <h2>    Certifications</h2>
 
-- <b>Google IT Support Professional</b>
-- <b>Cybersecurity in the Cloud</b>
+- <b>Google IT Support Professional https://www.coursera.org/account/accomplishments/specialization/52PA5TSZR447</b>
+- <b>Cybersecurity in the Cloud https://www.coursera.org/account/accomplishments/specialization/BMW9H8NCREHK</b>
 - <b>Google Cybersecurity https://www.coursera.org/account/accomplishments/specialization/RRETM5FSC7Y8</b>
-- <b>Cybersecurity in the Cloud</b>
+- <b>Cybersecurity in the Cloud https://www.coursera.org/account/accomplishments/specialization/BMW9H8NCREHK</b>
 - <b>Python in Cybersecurity</b>
 - <b>Diploma in IAM</b>
-- <b>IBM Cybersecurity Analyst</b>
-- <b>Google Project Management</b>
+- <b>IBM Cybersecurity Analyst https://www.coursera.org/account/accomplishments/specialization/YMB6AXYS94KM</b>
+- <b>Google Project Management https://www.coursera.org/account/accomplishments/specialization/7VNML3KB92RN</b>
 - <b>Introduction to AWS Identity and Access Management</b>
-- <b>Splunk Search Expert</b>
+- <b>Splunk Search Expert https://www.coursera.org/account/accomplishments/specialization/53N7B2QMJJ2J</b>
 
 <h2>📺 Popular YouTube Videos</h2>
 
