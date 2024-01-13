@@ -5,7 +5,6 @@
 - <b>Active Directory Home Lab with PowerShell</b>
   - Configuring Active Directory Domain Controller
   - Configuring DHCP Server
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 <h2>    Certifications</h2>
 
 - <b>Google IT Support Professional</b>
