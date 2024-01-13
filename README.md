@@ -9,6 +9,15 @@
 <h2>    Certifications</h2>
 
 - <b>Google IT Support Professional</b>
+- <b>Cybersecurity in the Cloud</b>
+- <b>Google Cybersecurity</b>
+- <b>Cybersecurity in the Cloud</b>
+- <b>Python in Cybersecurity</b>
+- <b>Diploma in IAM</b>
+- <b>IBM Cybersecurity Analyst</b>
+- <b>Google Project Management</b>
+- <b>Introduction to AWS Identity and Access Management</b>
+- <b>Splunk Search Expert</b>
 
 <h2>📺 Popular YouTube Videos</h2>
 
